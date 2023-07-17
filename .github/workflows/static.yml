@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: 'Module3-assignment'
+          path: 'Module4-assignment'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
